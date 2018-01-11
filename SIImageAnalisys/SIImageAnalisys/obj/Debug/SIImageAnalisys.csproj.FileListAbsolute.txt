@@ -1,0 +1,10 @@
+C:\Users\Agata\source\repos\SIImageAnalisys\SIImageAnalisys\bin\Debug\SIImageAnalisys.exe.config
+C:\Users\Agata\source\repos\SIImageAnalisys\SIImageAnalisys\bin\Debug\SIImageAnalisys.exe
+C:\Users\Agata\source\repos\SIImageAnalisys\SIImageAnalisys\bin\Debug\SIImageAnalisys.pdb
+C:\Users\Agata\source\repos\SIImageAnalisys\SIImageAnalisys\obj\Debug\SIImageAnalisys.csprojResolveAssemblyReference.cache
+C:\Users\Agata\source\repos\SIImageAnalisys\SIImageAnalisys\obj\Debug\SIImageAnalisys.Form1.resources
+C:\Users\Agata\source\repos\SIImageAnalisys\SIImageAnalisys\obj\Debug\SIImageAnalisys.Properties.Resources.resources
+C:\Users\Agata\source\repos\SIImageAnalisys\SIImageAnalisys\obj\Debug\SIImageAnalisys.csproj.GenerateResource.Cache
+C:\Users\Agata\source\repos\SIImageAnalisys\SIImageAnalisys\obj\Debug\SIImageAnalisys.csproj.CoreCompileInputs.cache
+C:\Users\Agata\source\repos\SIImageAnalisys\SIImageAnalisys\obj\Debug\SIImageAnalisys.exe
+C:\Users\Agata\source\repos\SIImageAnalisys\SIImageAnalisys\obj\Debug\SIImageAnalisys.pdb
