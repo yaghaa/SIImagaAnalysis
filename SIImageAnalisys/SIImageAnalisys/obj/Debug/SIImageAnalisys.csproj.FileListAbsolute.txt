@@ -8,3 +8,14 @@ C:\Users\Agata\source\repos\SIImageAnalisys\SIImageAnalisys\obj\Debug\SIImageAna
 C:\Users\Agata\source\repos\SIImageAnalisys\SIImageAnalisys\obj\Debug\SIImageAnalisys.csproj.CoreCompileInputs.cache
 C:\Users\Agata\source\repos\SIImageAnalisys\SIImageAnalisys\obj\Debug\SIImageAnalisys.exe
 C:\Users\Agata\source\repos\SIImageAnalisys\SIImageAnalisys\obj\Debug\SIImageAnalisys.pdb
+C:\Users\cieka\OneDrive\Dokumenty\si\SIImagaAnalysis\SIImageAnalisys\SIImageAnalisys\bin\Debug\SIImageAnalisys.exe.config
+C:\Users\cieka\OneDrive\Dokumenty\si\SIImagaAnalysis\SIImageAnalisys\SIImageAnalisys\bin\Debug\SIImageAnalisys.exe
+C:\Users\cieka\OneDrive\Dokumenty\si\SIImagaAnalysis\SIImageAnalisys\SIImageAnalisys\bin\Debug\SIImageAnalisys.pdb
+C:\Users\cieka\OneDrive\Dokumenty\si\SIImagaAnalysis\SIImageAnalisys\SIImageAnalisys\bin\Debug\MathNet.Numerics.dll
+C:\Users\cieka\OneDrive\Dokumenty\si\SIImagaAnalysis\SIImageAnalisys\SIImageAnalisys\bin\Debug\MathNet.Numerics.xml
+C:\Users\cieka\OneDrive\Dokumenty\si\SIImagaAnalysis\SIImageAnalisys\SIImageAnalisys\obj\Debug\SIImageAnalisys.csprojResolveAssemblyReference.cache
+C:\Users\cieka\OneDrive\Dokumenty\si\SIImagaAnalysis\SIImageAnalisys\SIImageAnalisys\obj\Debug\SIImageAnalisys.Form1.resources
+C:\Users\cieka\OneDrive\Dokumenty\si\SIImagaAnalysis\SIImageAnalisys\SIImageAnalisys\obj\Debug\SIImageAnalisys.Properties.Resources.resources
+C:\Users\cieka\OneDrive\Dokumenty\si\SIImagaAnalysis\SIImageAnalisys\SIImageAnalisys\obj\Debug\SIImageAnalisys.csproj.GenerateResource.Cache
+C:\Users\cieka\OneDrive\Dokumenty\si\SIImagaAnalysis\SIImageAnalisys\SIImageAnalisys\obj\Debug\SIImageAnalisys.exe
+C:\Users\cieka\OneDrive\Dokumenty\si\SIImagaAnalysis\SIImageAnalisys\SIImageAnalisys\obj\Debug\SIImageAnalisys.pdb
